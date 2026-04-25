@@ -98,7 +98,7 @@ Cópia da base original utilizada como backup (mantida oculta no modelo).
 
 ---
 
-## 🔗 Relacionamentos
+## Relacionamentos
 
 O modelo segue o padrão **Star Schema**, onde:
 
